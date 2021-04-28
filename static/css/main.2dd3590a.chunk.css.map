@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,qBAAuB,CACvB,aAAiB","file":"main.2dd3590a.chunk.css","sourcesContent":["// styles go here\n.App {\n  background-color: black;\n  color: aquamarine;\n}\n"]}

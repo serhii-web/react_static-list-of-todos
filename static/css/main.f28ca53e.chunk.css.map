@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,qBAAuB,CACvB,aAAiB","file":"main.f28ca53e.chunk.css","sourcesContent":["// styles go here\n.App {\n  background-color: black;\n  color: chartreuse;\n}"]}
